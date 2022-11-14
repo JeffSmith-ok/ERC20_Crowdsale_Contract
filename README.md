@@ -26,7 +26,7 @@ The photos below provide evidence of the contract execution.
 
 ## Usage
 
-The following image presents the code with the transaction processed in ganache and streamlit.
+The following image presents the code evidence.
 
 ## ![Screenshot 1](Images/Screenshot1.png) </br>
 
