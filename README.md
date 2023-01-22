@@ -1,12 +1,12 @@
-# Module_21_Challenge
+# ERC20 Crowdsale Contract
 
 Introduction
 
-You will create a fungible token that is ERC-20 compliant and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
+I will create a fungible token that is ERC-20 compliant and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
 
-The crowdsale contract that you create will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. Your contract will mint the tokens automatically and distribute them to buyers in one transaction.
+The crowdsale contract that I create will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. My contract will mint the tokens automatically and distribute them to buyers in one transaction.
 
-Note that the starter files that are provided for this Challenge contain a pragma for Solidity version 0.5.5. You will use the starter files to do the following:
+I will do the following:
 
 Create the KaseiCoin token contract.
 
@@ -14,11 +14,11 @@ Create the KaseiCoin crowdsale contract.
 
 Create the KaseiCoin deployer contract.
 
-Perform a real-world, pre-production test of your crowdsale. In order to do so, you will deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
+Perform a real-world, pre-production test of your crowdsale. In order to do so, I will deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
-Record a short video or take several screenshots that show the deployed contract in action.
+I will record a short video or take several screenshots that show the deployed contract in action.
 
-Optional: Use OpenZeppelin to extend the functionality of your crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created.
+I will, furthermore, use OpenZeppelin to extend the functionality of your crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created.
 
 The photos below provide evidence of the contract execution.
 
