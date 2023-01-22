@@ -18,7 +18,7 @@ Perform a real-world, pre-production test of your crowdsale. In order to do so, 
 
 I will record a short video or take several screenshots that show the deployed contract in action.
 
-I will, furthermore, use OpenZeppelin to extend the functionality of your crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created.
+I will, furthermore, use OpenZeppelin to extend the functionality of my crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created.
 
 The photos below provide evidence of the contract execution.
 
@@ -38,7 +38,6 @@ The following images presents the code evidence.
 
 ## Contributors
 
-This is the Module 21 Challenge.
 
 My contact information is:
 
