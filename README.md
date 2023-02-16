@@ -14,7 +14,7 @@ Create the KaseiCoin crowdsale contract.
 
 Create the KaseiCoin deployer contract.
 
-Perform a real-world, pre-production test of your crowdsale. In order to do so, I will deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
+Perform a real-world, pre-production test of my crowdsale. In order to do so, I will deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
 I will record a short video or take several screenshots that show the deployed contract in action.
 
